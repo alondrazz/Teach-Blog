@@ -1,0 +1,56 @@
+[
+    {
+        "title": "10 Essential VS Code Extensions for Web Developers",
+        "body": "In this post, you can provide a detailed overview of 10 Visual Studio Code extensions that are incredibly useful for web developers. Explain their features, how to install and use them, and why they are essential.",
+        "user_id": 1,
+        "date_created": " 10/5/2023"
+    },
+    {
+        "title": "Mastering CSS Grid Layout: A Comprehensive Guide",
+        "body": "Write a comprehensive guide on CSS Grid Layout, covering its fundamentals, various grid properties, and practical examples of creating complex layouts.",
+        "user_id": 2,
+        "date_created": "9/18/2023"
+    },
+    {
+        "title": "Best Practices for Web Accessibility: Building Inclusive Websites",
+        "body": "Share best practices for making websites accessible. Cover topics like semantic HTML, ARIA roles, keyboard navigation, and screen reader compatibility.",
+        "user_id": 4,
+        "date_created": "7/14/2023"
+    },
+    {
+        "title": "Exploring the World of Progressive Web Apps (PWAs)",
+        "body": "Introduce Progressive Web Apps, explain their key features, and guide readers on how to build a basic PWA. Discuss the benefits of PWAs for web developers.",
+        "user_id": 5,
+        "date_created": "6/30/2023"
+    },
+    {
+        "title": "Effective Debugging Techniques in JavaScript",
+        "body": "Provide practical tips and strategies for debugging JavaScript code, including using browser developer tools, console logging, and debugging libraries like Node.js's inspect.",
+        "user_id": 6,
+        "date_created": "5/19/2023"
+    },
+    {
+        "title": "The Power of Serverless: Building Web Applications with AWS Lambda",
+        "body": "Explore serverless architecture and explain how to build web applications using AWS Lambda and other AWS services. Walk readers through creating a serverless API.",
+        "user_id": 7,
+        "date_created": "4/5/2023"
+    },
+    {
+        "title": "Front-End Framework Showdown: React vs. Vue vs. Angular",
+        "body": "Compare and contrast React, Vue, and Angular, discussing their pros and cons, performance, and when to use each for different types of projects.",
+        "user_id": 8,
+        "date_created": "3/12/2023"
+    },
+    {
+        "title": "Secure Your Web App: Best Practices in Web Application Security",
+        "body": "Share best practices for web application security, covering topics like user authentication, authorization, input validation, and protection against common security vulnerabilities.",
+        "user_id": 9,
+        "date_created": "2/22/2023"
+    },
+    {
+        "title": "The Future of Web Development: Exploring WebAssembly (Wasm)",
+        "body": "Introduce WebAssembly and explain its potential to revolutionize web development. Provide use cases, examples, and compare its performance to traditional JavaScript.",
+        "user_id": 10,
+        "date_created": "1/7/2023"
+    }
+]

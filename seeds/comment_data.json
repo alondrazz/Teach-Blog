@@ -1,0 +1,62 @@
+[
+    {
+        "comment": "Great list of VS Code extensions! I use some of them regularly, but I've discovered a few new ones from your post.",
+        "date_created": "10/6/2023",
+        "user_id": 1,
+        "post_id": 11
+    },
+    {
+        "comment": "This guide was incredibly helpful in understanding CSS Grid. Thanks for the clear explanations and examples!",
+        "date_created": "9/19/2023",
+        "user_id": 2,
+        "post_id": 12
+    },
+    {
+        "comment": "I've been debating between REST and GraphQL for my project. Your post helped me make an informed decision. Great work!",
+        "date_created": "8/29/2023",
+        "user_id": 3,
+        "post_id": 13
+    },
+    {
+        "comment": "Accessibility is crucial, and your post provides a handy reference for implementing best practices.",
+        "date_created": "7/15/2023",
+        "user_id": 4,
+        "post_id": 14
+    },
+    {
+        "comment": "PWAs are the future of web development. Your post is a great introduction to this technology. Thanks!",
+        "date_created": "7/1/2023",
+        "user_id": 5,
+        "post_id": 15
+    },
+    {
+        "comment": "Debugging can be frustrating, but your post makes it less daunting. I learned a lot from your tips!",
+        "date_created": "5/20/2023",
+        "user_id": 6,
+        "post_id": 16
+    },
+    {
+        "comment": "Serverless architecture is amazing, and your post is a fantastic guide for anyone wanting to get started with AWS Lambda.",
+        "date_created": "4/6/2023",
+        "user_id": 7,
+        "post_id": 17
+    },
+    {
+        "comment": "I was torn between React and Vue for my project. Your comparison helped me make an informed choice. Thanks!",
+        "date_created": "3/13/2023",
+        "user_id": 8,
+        "post_id": 18
+    },
+    {
+        "comment": "Security is often overlooked in web development. Your post reminds us of the importance of protecting our apps.",
+        "date_created": "2/23/2023",
+        "user_id": 9,
+        "post_id": 19
+    },
+    {
+        "comment": "WebAssembly is a game-changer. Your post paints a promising future for web development. Well done!",
+        "date_created": "1/8/2023",
+        "user_id": 10,
+        "post_id": 20
+    }
+]

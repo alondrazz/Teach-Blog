@@ -1,0 +1,42 @@
+[
+ {
+    "username": " SarahDeveloper1",
+    "password": "sarah123"
+ },
+ {
+    "username": "AlexCoder2",
+    "password": "alex456"
+},
+{
+    "username": "MarkWebmaster3",
+    "password": "mark789"
+},
+{
+    "username": "EmilyDesigner4",
+    "password": "emily567"
+},
+{
+    "username": "JakeDeveloper5",
+    "password": "jake890"
+},
+{
+    "username": "MariaCoder6",
+    "password": "maria123"
+},
+{
+    "username": "RyanDevOps7",
+    "password": "ryan456"
+},
+{
+    "username": "ChrisDeveloper8",
+    "password": "chris789"
+},
+{
+    "username": "LisaSecurity9",
+    "password": "lisa123"
+},
+{
+    "username": "TonyTechie10",
+    "password": "tony456"
+}
+]
